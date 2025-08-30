@@ -83,7 +83,8 @@
 ----------------------------------------------------------------*/
 :root {
   --white-color: #fff;
-  --heading-color: #191919;
+  /* --heading-color: #191919; */
+  --idi-color: #0a3369;
   --body-color: #768385;
   --accent-color: #FFA415;
   --orange-color: #FF5528;
@@ -1551,7 +1552,8 @@ hr {
 }
 
 .cs_heading_bg {
-  background-color: var(--heading-color);
+  /* background-color: var(--heading-color); */
+  background-color: var(--idi-color);
 }
 
 .cs_secondary_bg {
@@ -2668,7 +2670,8 @@ label {
   opacity: 1;
   -webkit-transition: all 0.4s ease;
   transition: all 0.4s ease;
-  background-color: var(--heading-color);
+  /* background-color: var(--heading-color); */
+  background-color: var(--idi-color);
   border-bottom: 0;
 }
 .cs_site_header.cs_style_1.cs_gescout_sticky .cs_main_header_left {
